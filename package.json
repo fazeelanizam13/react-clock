@@ -1,6 +1,6 @@
 {
   "name": "@fazeelanizam13/react-clock",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A fully customizable, responsive analog clock in React.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
