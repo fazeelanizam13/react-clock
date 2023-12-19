@@ -3,7 +3,7 @@
 a fully customizable, responsive analog clock in React.
 
 <p style="text-align: center">
-  <img src="./src/ReactClock/assets/ss.png" style="width: 70%;">
+  <img src="https://drive.google.com/uc?export=view&id=1Yt-Cen1SjhqDiMHhBK4NIS1EVD0IN-0A" style="width: 70%;">
 </p>
 
 ## basic usage
