@@ -1,0 +1,5 @@
+{
+  "name": "@kwhinnery/yassify",
+  "version": "1.0.5",
+  "exports": "./src/index.ts"
+}
