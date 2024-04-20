@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react';
-import { ReactClockProps } from '..';
+import { ReactClockProps } from '../index';
 
 type ClockFaceProps = {
   size: ReactClockProps['size'];
