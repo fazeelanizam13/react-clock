@@ -6,7 +6,7 @@ import {
   ReactClockProps,
   clockHandLengthDefault,
   clockHandWidthDefault,
-} from '..';
+} from '../index';
 
 type ClockHandProps = {
   type: HandType;
