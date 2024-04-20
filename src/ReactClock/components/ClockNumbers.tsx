@@ -1,5 +1,5 @@
 import React from 'react';
-import { ClockFacePadding, ReactClockProps } from '..';
+import { ClockFacePadding, ReactClockProps } from '../index';
 
 type ClockNumbersProps = {
   padding: ClockFacePadding;

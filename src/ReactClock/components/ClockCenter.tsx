@@ -1,5 +1,5 @@
 import React from 'react';
-import { ReactClockProps } from '..';
+import { ReactClockProps } from '../index';
 
 type ClockCenterProps = { style: ReactClockProps['clockCenterStyle'] }
 
